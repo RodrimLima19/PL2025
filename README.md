@@ -8,4 +8,4 @@ Este repositório é dedicado ao armazenamento dos diversos TPC realizados ao lo
 - **ID:** A104181 
 - **Foto:**
 
-![Foto](https://drive.google.com/file/d/1ek5pF2YixvtYHGDgaOucPRl40qZZsMK4/view?usp=sharing)
+![Foto](Images/foto.jpg)
