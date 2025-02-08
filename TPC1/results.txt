@@ -1,0 +1,15 @@
+Soma atual: 0
+Soma atual: 45
+Soma atual: 17101
+Soma atual: 17101
+Soma atual: 19848
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 514071
+Soma atual: 530376
+Resultado final do arquivo: 532425
