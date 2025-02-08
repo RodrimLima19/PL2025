@@ -2,7 +2,7 @@
 
 📅 **Data:** 2024-02-08  
 👤 **Autor:** [Rodrigo Mendes Lima], [A104181]  
-🖼️ ![Foto](Images/foto.jpg)  
+🖼️ ![Foto](../Images/foto.jpg)  
 
 ## Resumo
 
