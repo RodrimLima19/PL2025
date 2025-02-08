@@ -1,7 +1,7 @@
 # TPC1 - Somador On/Off
 
 📅 **Data:** 2024-02-08  
-👤 **Autor:** [Rodrigo Mendes Lima], [A104181]  
+👤 **Autor:** Rodrigo Mendes Lima, A104181  
 🖼️ ![Foto](../Images/foto.jpg)  
 
 ## Resumo
@@ -22,4 +22,4 @@ Os resultados gerados podem ser encontrados nos seguintes ficheiros:
 
 ---
 
-ℹ️ Este projeto foi desenvolvido no âmbito da disciplina de **[Processamento de Linguagens]** da **[Universidade do Minho]**.
+ℹ️ Este projeto foi desenvolvido no âmbito da disciplina de **Processamento de Linguagens** da **Universidade do Minho**.
