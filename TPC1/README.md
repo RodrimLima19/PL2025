@@ -2,7 +2,7 @@
 
 📅 **Data:** 2024-02-08  
 👤 **Autor:** Rodrigo Mendes Lima, A104181  
-🖼️ ![Foto](../Images/foto.jpg)  
+![Foto](../Images/foto.jpg)  
 
 ## Resumo
 
@@ -13,9 +13,9 @@ Este trabalho implementa um somador condicional baseado em comandos "on" e "off"
 - Tratamento de números negativos para garantir cálculos corretos;
 - Escrita dos resultados processados num ficheiro de saída.
 
-## Resultados
+## Testes
 
-Os resultados gerados podem ser encontrados nos seguintes ficheiros:
+Os testes realizados baseiam-se num conjunto de dados de entrada e nos respetivos resultados processados. Para este efeito, foram utilizados os seguintes ficheiros:
 
 - 📄 [data.txt](data.txt) - Conjunto de dados de entrada utilizado nos testes.
 - 📄 [results.txt](results.txt) - Contém os resultados processados para o respetivo ficheiro de entrada.
