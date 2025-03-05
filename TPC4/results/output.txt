@@ -1,0 +1,34 @@
+Token: SELECT, Valor: select
+Token: VAR_NOME, Valor: ?nome
+Token: VAR_DESC, Valor: ?desc
+Token: WHERE, Valor: where
+Token: LBRACE, Valor: {
+----------------------------------------
+Token: VAR_S, Valor: ?s
+Token: ATTRIBUTE, Valor: a
+Token: URI, Valor: dbo:MusicalArtist
+Token: DOT, Valor: .
+----------------------------------------
+Token: VAR_S, Valor: ?s
+Token: URI, Valor: foaf:name
+Token: STRING, Valor: "Chuck Berry"@en
+Token: DOT, Valor: .
+----------------------------------------
+Token: VAR_W, Valor: ?w
+Token: URI, Valor: dbo:artist
+Token: VAR_S, Valor: ?s
+Token: DOT, Valor: .
+----------------------------------------
+Token: VAR_W, Valor: ?w
+Token: URI, Valor: foaf:name
+Token: VAR_NOME, Valor: ?nome
+Token: DOT, Valor: .
+----------------------------------------
+Token: VAR_W, Valor: ?w
+Token: URI, Valor: dbo:abstract
+Token: VAR_DESC, Valor: ?desc
+----------------------------------------
+Token: RBRACE, Valor: }
+Token: LIMIT, Valor: LIMIT
+Token: NUMBER, Valor: 1000
+----------------------------------------
