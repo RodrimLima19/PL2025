@@ -1,6 +1,6 @@
 # TPC4 - Analisador Léxico
 
-📅 **Data:** 2025-02-28 
+📅 **Data:** 2025-03-05  
 👤 **Autor:** Rodrigo Mendes Lima, A104181  
 ![Foto](../Images/foto.jpg)  
 
