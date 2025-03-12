@@ -1,0 +1,64 @@
+{
+    "stock": [
+        {
+            "cod": "A23",
+            "nome": "água 0.5L",
+            "quant": 6,
+            "preco": 0.7
+        },
+        {
+            "cod": "B45",
+            "nome": "chocolate",
+            "quant": 5,
+            "preco": 1.2
+        },
+        {
+            "cod": "C67",
+            "nome": "batatas fritas",
+            "quant": 10,
+            "preco": 1.0
+        },
+        {
+            "cod": "D89",
+            "nome": "sumo de laranja",
+            "quant": 6,
+            "preco": 1.5
+        },
+        {
+            "cod": "E12",
+            "nome": "sanduíche de frango",
+            "quant": 3,
+            "preco": 2.5
+        },
+        {
+            "cod": "F34",
+            "nome": "café",
+            "quant": 15,
+            "preco": 0.8
+        },
+        {
+            "cod": "G56",
+            "nome": "chá verde",
+            "quant": 7,
+            "preco": 0.9
+        },
+        {
+            "cod": "H78",
+            "nome": "barra de cereais",
+            "quant": 12,
+            "preco": 0.6
+        },
+        {
+            "cod": "I90",
+            "nome": "bolacha de chocolate",
+            "quant": 9,
+            "preco": 0.5
+        },
+        {
+            "cod": "J01",
+            "nome": "refrigerante",
+            "quant": 4,
+            "preco": 1.3
+        }
+    ]
+}
