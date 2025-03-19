@@ -1,0 +1,7 @@
+Valor da Expressão: 5.0!
+Valor da Expressão: 1.0!
+Valor da Expressão: 6.0!
+Valor da Expressão: 3.0!
+Valor da Expressão: 11.0!
+Valor da Expressão: -1.0!
+Valor da Expressão: 2.2!
